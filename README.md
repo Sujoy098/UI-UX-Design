@@ -34,7 +34,9 @@ Overall, the redesigned landing page delivers a more professional, user-friendly
 
 
 
-#DESCRIPTION OF TASK 1 :
+#DESCRIPTION OF TASK 2 :
+
+
 DESIGN A RESPONSIVE WEBPAGE THAT ADAPTS TO DIFFERENT SCREEN SIZES USING HTML, CSS, AND JAVASCRIPT.
 
 **OUTPUT**:
