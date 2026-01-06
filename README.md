@@ -27,3 +27,8 @@ The redesign focuses on creating a cleaner, more modern layout with improved str
 Service and destination sections were redesigned using consistent card layouts, clearer titles, and balanced imagery to improve visual flow and maintain user interest. Color usage was streamlined to reflect a calm, coastal aesthetic while maintaining contrast for important actions. The contact and subscription sections were simplified to reduce friction and encourage user interaction.
 
 Overall, the redesigned landing page delivers a more professional, user-friendly experience that strengthens brand credibility, improves navigation, and increases the likelihood of user conversion.
+
+##OUTPUT 
+
+![Image](https://github.com/user-attachments/assets/c537815e-b1cb-479e-bc3d-b53ecc7aad95)
+
