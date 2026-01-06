@@ -43,3 +43,34 @@ DESIGN A RESPONSIVE WEBPAGE THAT ADAPTS TO DIFFERENT SCREEN SIZES USING HTML, CS
 
 <img width="1872" height="867" alt="Image" src="https://github.com/user-attachments/assets/1ccd8616-ba14-4c6c-9f16-3d7a11f849fb" />
 
+
+#DESCRIPTION OF TASK 3 :
+
+
+Redesign Focus & Pain Point :
+
+
+A major pain point in the Netflix mobile app is content discovery—users often spend more time browsing than watching. The redesign focuses on reducing decision fatigue by improving personalization and navigation. The home screen introduces clearer content categories, a prominent “Watch Now” suggestion based on viewing history, and simplified tabs. Visual clutter is reduced using consistent card sizes, improved spacing, and clearer typography. A quick-preview feature allows users to view short summaries and mood tags without opening full detail pages. Overall, the redesign streamlines discovery, speeds up decision-making, and enhances the viewing experience.
+
+
+**OUTPUT**:
+
+
+
+
+
+
+#DESCRIPTION OF TASK 4 :
+
+
+App Chosen: Grocery Delivery Mobile App (UI/UX Redesign)
+This redesigned grocery delivery mobile application focuses on improving speed, clarity, and ease of use during product discovery and checkout. A common pain point in grocery apps is information overload and friction while adding items to the cart. The redesign addresses this by simplifying navigation, improving visual hierarchy, and prioritizing essential actions.
+
+The home screen highlights key offers with a clean promotional banner, followed by clearly labeled categories such as fruits, vegetables, and daily essentials. Product cards are designed with larger images, readable prices, ratings, and a prominent “Add” button, reducing the need to open multiple screens. Consistent spacing and soft color contrasts make scanning effortless, even during quick shopping sessions.
+The cart experience is streamlined with inline quantity controls, real-time price updates, and a fixed “Go to Checkout” button to minimize confusion. Personalized recommendations appear below the cart, encouraging additional purchases without interrupting the flow. Icons and typography are kept minimal and familiar to reduce cognitive load.
+
+Overall, the redesign enhances usability by shortening the shopping journey, improving readability, and making interactions more intuitive. The result is a faster, smoother, and more user-friendly grocery shopping experience that supports both first-time users and frequent shoppers.
+
+
+**OUTPUT**:
+
