@@ -80,3 +80,7 @@ Overall, the redesign enhances usability by shortening the shopping journey, imp
 
 **OUTPUT**:
 
+
+<img width="1500" height="1125" alt="Image" src="https://github.com/user-attachments/assets/56b106bb-9489-450d-8e72-1ae871f335dc" />
+
+
