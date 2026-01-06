@@ -32,3 +32,12 @@ Overall, the redesigned landing page delivers a more professional, user-friendly
 
 ![Image](https://github.com/user-attachments/assets/c537815e-b1cb-479e-bc3d-b53ecc7aad95)
 
+
+
+#DESCRIPTION OF TASK 1 :
+DESIGN A RESPONSIVE WEBPAGE THAT ADAPTS TO DIFFERENT SCREEN SIZES USING HTML, CSS, AND JAVASCRIPT.
+
+**OUTPUT**:
+
+<img width="1872" height="867" alt="Image" src="https://github.com/user-attachments/assets/1ccd8616-ba14-4c6c-9f16-3d7a11f849fb" />
+
