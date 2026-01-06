@@ -1,21 +1,21 @@
 # UI-UX-Design
 
-** COMPANY** : CODTECH IT SOLUTIONS
+**COMPANY**: CODTECH IT SOLUTIONS
 
 
-** NAME ** : SUJOY MANNA
+**NAME**: SUJOY MANNA
 
 
-** INTERN ID ** : CTIS0978
+**INTERN ID**: CTIS0978
 
 
-**DOMAIN ** : UI/UX DESIGN
+**DOMAIN**: UI/UX DESIGN
 
 
 **DURATION**: 6 WEEKS
 
 
-**MENTOR **: NEELA SANTOSH
+**MENTOR**: NEELA SANTOSH
 
 
 #DESCRIPTION OF TASK : 
@@ -28,7 +28,7 @@ Service and destination sections were redesigned using consistent card layouts, 
 
 Overall, the redesigned landing page delivers a more professional, user-friendly experience that strengthens brand credibility, improves navigation, and increases the likelihood of user conversion.
 
-##OUTPUT 
+**OUTPUT**: 
 
 ![Image](https://github.com/user-attachments/assets/c537815e-b1cb-479e-bc3d-b53ecc7aad95)
 
