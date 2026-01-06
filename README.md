@@ -34,6 +34,8 @@ Overall, the redesigned landing page delivers a more professional, user-friendly
 
 
 
+
+
 #DESCRIPTION OF TASK 2 :
 
 
@@ -42,6 +44,9 @@ DESIGN A RESPONSIVE WEBPAGE THAT ADAPTS TO DIFFERENT SCREEN SIZES USING HTML, CS
 **OUTPUT**:
 
 <img width="1872" height="867" alt="Image" src="https://github.com/user-attachments/assets/1ccd8616-ba14-4c6c-9f16-3d7a11f849fb" />
+
+
+
 
 
 #DESCRIPTION OF TASK 3 :
@@ -56,6 +61,7 @@ A major pain point in the Netflix mobile app is content discovery—users often 
 **OUTPUT**:
 
 
+<img width="1500" height="1125" alt="Image" src="https://github.com/user-attachments/assets/57797600-4eb5-42fd-8e66-7afaff4c62eb" />
 
 
 
