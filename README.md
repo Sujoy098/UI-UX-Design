@@ -18,7 +18,7 @@
 **MENTOR**: NEELA SANTOSH
 
 
-#DESCRIPTION OF TASK : 
+#DESCRIPTION OF TASK 1 : 
 Landing Page Redesign 
 The objective of this task was to redesign an existing travel website landing page, “The Goa Trip,” to enhance visual appeal, usability, and user engagement while preserving its beach-travel theme. The original design successfully conveyed the destination’s mood but lacked a clear visual hierarchy, consistent typography, and strong call-to-action emphasis, which reduced its overall effectiveness.
 
